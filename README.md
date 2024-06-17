@@ -7,15 +7,15 @@
 
 # Tools(IN SILICO):-
 
-## * Addgene
-## * Soykb
-## * Soybase
-## * Phytozome
-## * NCBI
-## * CRISPR-P
-## * CRISPR-GE
-## * CHOP CHOP
-## * SNAPGENE
+## * [Addgene](https://www.addgene.org/)
+## * [Soykb](https://www.soykb.org/)
+## * [Soybase](https://www.soybase.org/)
+## * [Phytozome v13](https://phytozome-next.jgi.doe.gov/)
+## * [NCBI](https://www.ncbi.nlm.nih.gov/)
+## * [CRISPR-P](http://crispr.hzau.edu.cn/CRISPR2/)
+## * [CRISPR-GE](https://www.bing.com/ck/a?!&&p=209b19b5bca34dcbJmltdHM9MTcxODU4MjQwMCZpZ3VpZD0xMDBiZTMyNC00MWNiLTYyNTktMzQyMy1mMGE0NDA1MDYzM2MmaW5zaWQ9NTIyMw&ptn=3&ver=2&hsh=3&fclid=100be324-41cb-6259-3423-f0a44050633c&psq=crispr-ge&u=a1aHR0cDovL3NrbC5zY2F1LmVkdS5jbi8&ntb=1)
+## * [CHOP CHOP](https://chopchop.cbu.uib.no/)
+## * [SNAPGENE](https://www.snapgene.com/)
 
 # Tools(IN VITRO):-
 
