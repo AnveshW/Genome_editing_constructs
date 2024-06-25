@@ -26,7 +26,7 @@
 ## * Agar plates with Antibiotics
 ## * PCR Tubes and plates
 ## * DNA Sequencer
-## * Safety Equipment(Lab Coats, GLoves)
+## * Safety Equipment(Lab Coats, Gloves)
 
 # OBJECTIVES:-
 
